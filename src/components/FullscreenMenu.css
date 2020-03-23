@@ -42,3 +42,13 @@ button.FullscreenMenuToggler {
   display: block;
   margin: 0.5rem;
 }
+
+.FullscreenMenu a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.FullscreenMenu a:hover {
+  text-decoration: underline;
+}
